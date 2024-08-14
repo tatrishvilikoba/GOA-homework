@@ -1,0 +1,5 @@
+print("elene cugoshvili")
+print("koba tatrishvili")
+print("sandro tatrishvili")
+print("maka qashakashvili")
+print("davit tatrishvili")
